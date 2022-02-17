@@ -1,4 +1,3 @@
-
 def titleToNumber(columnTitle: str) -> int:
     output = 0
 
