@@ -1,5 +1,7 @@
 package main
 
+
+// Leetcode 1228 https://leetcode.com/problems/missing-number-in-arithmetic-progression/
 func missingNumber(arr []int) int {
     
     var gap int = arr[1] - arr[0]
